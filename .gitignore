@@ -1,0 +1,6 @@
+atlassian-ide-plugin.xml
+config.json
+node_modules
+node_modules/*
+.idea
+.idea/*

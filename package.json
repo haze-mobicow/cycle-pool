@@ -1,0 +1,20 @@
+{
+  "name": "cycle-pool",
+  "version": "0.0.1",
+  "author": {
+    "name": "William Gray",
+    "email": "w.gray@mobicow.com"
+  },
+  "main": "lib/cycle-pool.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haze-mobicow/cycle-pool.git"
+  },
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/haze-mobicow/cycle-pool/issues"
+  }
+}

@@ -5,6 +5,9 @@
     "name": "William Gray",
     "email": "w.gray@mobicow.com"
   },
+  "dependencies": {
+    "debug": "2.1.3"
+  },
   "main": "lib/cycle-pool.js",
   "repository": {
     "type": "git",

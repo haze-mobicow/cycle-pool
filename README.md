@@ -59,7 +59,6 @@ pool.acquire(function(err, client) {
 
 ```js
 // acquire connection - callback function is called
-// once a resource becomes available
 pool.acquire(function(err, client) {
     if (err) {
         // handle error - this is generally the err from your
